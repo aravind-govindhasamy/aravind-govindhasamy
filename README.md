@@ -80,10 +80,5 @@
 </p>
 
 <p align="center">
-  <img src="https://chart.googleapis.com/chart?cht=qr&chs=150x150&chl=bitcoin:3MfKUX3KMZKvoBGR8jQfDHcvP5fYnH4Zud" alt="Bitcoin QR Code" />
-</p>
-
-
-<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </p>
