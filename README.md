@@ -47,14 +47,10 @@ Currently building cloud IoT platform infrastructure at **Semicon Media** — re
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=aravind-govindhasamy&theme=react&hide=contribs,prs" alt="GitHub stats" />
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aravind-govindhasamy&theme=react" alt="GitHub streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aravind-govindhasamy&theme=react&layout=compact&hide=css" alt="Top languages" />
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
